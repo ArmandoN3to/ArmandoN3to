@@ -1,68 +1,53 @@
-<div align="center">
-  <img height="200" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F843087992764009446%2F&psig=AOvVaw1HeRHExTPRbOhTOlzXMS9e&ust=1727533840964000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKC1t5yr44gDFQAAAAAdAAAAABAE](https://github.com/snipe/animated-gifs/blob/master/Relax/everything-is-normal.gif?raw=true)"  />
-</div>
 
-###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
+<p align="center">I solve great challenges using tech. <br><br> I have basic experience with networking, infrastructure, and other technologies. I lead, plan and optimize work activities. I have interpersonal skills such as responsibility, collaboration, flexibility, adaptability, objectivity, communication, emotional intelligence, motivation, time management, results orientation and teamwork.</p>&nbsp;
 
-###
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ArmandoN3to&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-ArmandoN3to.vercel.app/api/top-langs/?username=ArmandoN3to&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
 
-<h1 align="center">hey there 👋</h1>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
+## My Skills
 
-###
+#### Main Stack:
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-###
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h3 align="left">🛠 Language and tools</h3>
+#### Studying in this moment:
 
-###
+## RPA
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+#### Databases:
 
-###
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-<h3 align="left">🔥   My Stats :</h3>
+#### Workstation Tools:
 
-###
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArmandoN3to&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+&nbsp;
+&nbsp;
 
-###
+## Contacts:
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArmandoN3to&radius=20&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+<div> 
+<a href="https://www.instagram.com/armando_n3to" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:contato.armandogoncalves2@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/armando-neto-b44972208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
+ 
 
-###
-
-<img src="https://raw.githubusercontent.com/ArmandoN3to/ArmandoN3to/output/snake.svg" alt="Snake animation" />
-
-###
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
