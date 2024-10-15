@@ -3,7 +3,8 @@
 <p align="center">I solve great challenges using tech. <br><br> I have basic experience with networking, infrastructure, and other technologies. I lead, plan and optimize work activities. I have interpersonal skills such as responsibility, collaboration, flexibility, adaptability, objectivity, communication, emotional intelligence, motivation, time management, results orientation and teamwork.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ArmandoN3to&theme=radical&mode=weekly" />
+ 
+<img width=55% align="center"  src="[![GitHub Streak](https://streak-stats.demolab.com?user=ArmandoN3to&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)" />
 
  </div>
  
@@ -22,7 +23,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
