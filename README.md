@@ -3,9 +3,7 @@
 <p align="center">I solve great challenges using tech. <br><br> I have basic experience with networking, infrastructure, and other technologies. I lead, plan and optimize work activities. I have interpersonal skills such as responsibility, collaboration, flexibility, adaptability, objectivity, communication, emotional intelligence, motivation, time management, results orientation and teamwork.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
- [![GitHub Streak](https://streak-stats.demolab.com?user=ArmandoN3to&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-<img width=55% align="center"  src="[![GitHub Streak](https://streak-stats.demolab.com?user=ArmandoN3to&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)" />
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArmandoN3to&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
  </div>
  
  &nbsp;
