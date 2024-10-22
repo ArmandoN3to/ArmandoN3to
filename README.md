@@ -1,6 +1,6 @@
 
-
-<p align="center">I solve great challenges using tech. <br><br> I have basic experience with networking, infrastructure, and other technologies. I lead, plan and optimize work activities. I have interpersonal skills such as responsibility, collaboration, flexibility, adaptability, objectivity, communication, emotional intelligence, motivation, time management, results orientation and teamwork.</p>&nbsp;
+### Hi!👋
+<p align="left">I'm a tech enthusiast with a strong focus on Hyperautomation, Robotic Process Automation (RPA), and leveraging Large Language Models (LLMs) to develop innovative solutions. Currently, I'm expanding my expertise in machine learning, exploring its integration with automation tools to streamline and optimize complex workflows. My passion lies in building scalable, efficient systems that utilize these technologies to create impactful and intelligent solutions</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArmandoN3to&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
