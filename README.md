@@ -11,9 +11,9 @@
 
 
 
-### My Skills
+## My Skills
 
-#### Main Stack:
+### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -21,9 +21,9 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
-### What am I currently studying?
+## What am I currently studying?
 
-## I am currently deepening my knowledge in machine learning, and best practices for developing scalable APIs.
+### I am currently deepening my knowledge in machine learning, and best practices for developing scalable APIs.
 
 #### Databases:
 
