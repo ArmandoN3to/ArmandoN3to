@@ -1,6 +1,6 @@
 
 ### Hi!👋
-<p align="left">I'm a tech enthusiast with a strong focus on Hyperautomation, Robotic Process Automation (RPA), and leveraging Large Language Models (LLMs) to develop innovative solutions. Currently, I'm expanding my expertise in machine learning, exploring its integration with automation tools to streamline and optimize complex workflows. My passion lies in building scalable, efficient systems that utilize these technologies to create impactful and intelligent solutions</p>&nbsp;
+<p align="left">I'm a Back-End developer focused on process automation (RPA) and scalable API development. I have solid experience in Python and use framework FastAPI to create efficient and well-structured solutions. Additionally, I have basic knowledge of Machine Learning and Deep Learning, and I am constantly looking to enhance my skills in this field.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArmandoN3to&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
@@ -21,9 +21,9 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
-#### Studying in this moment:
+#### What am I currently studying?
 
-## RPA
+## I am currently deepening my knowledge in machine learning, and best practices for developing scalable APIs.
 
 #### Databases:
 
