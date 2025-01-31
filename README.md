@@ -11,7 +11,7 @@
 
 
 
-## My Skills
+### My Skills
 
 #### Main Stack:
 
@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
-#### What am I currently studying?
+### What am I currently studying?
 
 ## I am currently deepening my knowledge in machine learning, and best practices for developing scalable APIs.
 
