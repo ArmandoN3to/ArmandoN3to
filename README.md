@@ -1,6 +1,6 @@
 
 ### Hi!👋
-<p align="left">I'm a Back-End developer focused on process automation (RPA) and scalable API development. I have solid experience in Python and use framework FastAPI to create efficient and well-structured solutions. Additionally, I have basic knowledge of Machine Learning and Deep Learning, and I am constantly looking to enhance my skills in this field.</p>&nbsp;
+<p align="left">I'm a Back-End developer focused on process automation (RPA) and scalable API development. I have solid experience in Python and use framework Django to create efficient and well-structured solutions. Additionally, I have basic knowledge of Machine Learning and Deep Learning, and I am constantly looking to enhance my skills in this field.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArmandoN3to&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
